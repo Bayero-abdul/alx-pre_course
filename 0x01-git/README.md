@@ -1,1 +1,1 @@
-Readme for Git task
+Git, bash and c Tasks
